@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+node_modules/
+assets/banners-workshops/fotos-originais/
+assets/banners-workshops/banner-*.html
+assets/banners-workshops/capture-sq.js
